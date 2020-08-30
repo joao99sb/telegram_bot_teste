@@ -1,10 +1,11 @@
 {
   "name": "telegram_bot_teste",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-      "start": "node src/index.js"
+      "start": "node src/index.js",
+      "teste":"node src/teste.js"
   },
   "dependencies": {
     "axios": "^0.20.0",
